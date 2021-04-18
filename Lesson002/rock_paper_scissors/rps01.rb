@@ -69,7 +69,7 @@ loop do
   puts("\n")
 
   if number_human_wins == 5
-    puts("Puny Humay Wins Match!")
+    puts("Puny Human Wins Match!")
     puts("\n")
     break
   elsif number_computer_wins == 5
