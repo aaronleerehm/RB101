@@ -79,4 +79,5 @@ loop do
   end
 end
 
-puts("Thanks for playing Rock, Paper, Scissors, Licard, Spock.")
+puts("Thanks for playing Rock, Paper, Scissors, Lizard, Spock.")
+puts("\n")
